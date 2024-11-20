@@ -14,6 +14,10 @@
     - Post-pandemic, there has been a significant surge in consumer awareness about health and wellness, driving demand for dietary and nutritional supplements.
     - A focus on **elder care**, **immune support**, and **personal health management** is emerging as a key trend.
 - **Consumer Usage**:
+
+
+![屏幕截图 2024-11-19 192943](https://github.com/user-attachments/assets/77fe98ac-9da5-4202-96b2-e2766e2c5716)
+
     - **93% of consumers** use health supplements for personal reasons.
     - Secondary consumption scenarios include:
         - **Elders/Parents**: 59%
@@ -23,6 +27,9 @@
         - **Pet Supplements**: 8%
     - Source: CBN Data x Tmall Global Family Supplement Report, 2022.
 - **Economic Context**:
+
+![statistic_id263770_gross-domestic-product--gdp--of-china-1985-2029](https://github.com/user-attachments/assets/59a49b42-fb7e-4c0d-bb13-ea51f4fb6ec9)
+
     - The steady rise in China's **GDP** (~USD 17 trillion in 2023) reflects increasing disposable incomes, enabling more spending on health-related products.
     - The growth trajectory of GDP further supports the sustainability of the health supplement market.
     - Source: IMF via Statista.
