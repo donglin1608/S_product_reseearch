@@ -1,6 +1,8 @@
 ### **Market**
 
 - **Market Size**:
+  ![屏幕截图 2024-11-19 192855](https://github.com/user-attachments/assets/bfbf0805-0c84-4b3e-8ae0-ce76ab1236a2)
+
     - The health supplement market in China has seen consistent growth over the years:
         - In 2016, the market was valued at **144.6 billion RMB** (~USD 21 billion).
         - By 2021, the market reached **270.8 billion RMB** (~USD 39 billion).
