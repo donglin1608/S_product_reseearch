@@ -29,8 +29,7 @@
 - **Economic Context**:
 
 ![statistic_id263770_gross-domestic-product--gdp--of-china-1985-2029](https://github.com/user-attachments/assets/59a49b42-fb7e-4c0d-bb13-ea51f4fb6ec9)
-
-    - The steady rise in China's **GDP** (~USD 17 trillion in 2023) reflects increasing disposable incomes, enabling more spending on health-related products.
+- The steady rise in China's **GDP** (~USD 17 trillion in 2023) reflects increasing disposable incomes, enabling more spending on health-related products.
     - The growth trajectory of GDP further supports the sustainability of the health supplement market.
     - Source: IMF via Statista.
 - **Key Insight**:
@@ -38,7 +37,7 @@
 
 ---
 
-Feel free to ask for revisions or additional details!
+Reference: 
 
 https://beautymatter.com/articles/key-trends-shaping-the-supplement-market-in-china
 
