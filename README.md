@@ -18,7 +18,7 @@
 
 ![屏幕截图 2024-11-19 192943](https://github.com/user-attachments/assets/77fe98ac-9da5-4202-96b2-e2766e2c5716)
 
-    - **93% of consumers** use health supplements for personal reasons.
+- **93% of consumers** use health supplements for personal reasons.
     - Secondary consumption scenarios include:
         - **Elders/Parents**: 59%
         - **Teenagers**: 33%
